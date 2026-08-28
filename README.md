@@ -86,6 +86,26 @@ WEIGHTS_URL=<direct-link> ./fetch_weights.sh
 `fetch_weights.sh` unpacks into `./models/` and verifies every file against
 `models.md5` (16 files), which was generated from the submitted image itself.
 
+### Or: skip the build entirely
+
+If it is more convenient to run the submitted container directly rather than
+rebuild it, the exact submitted image is also available as a `docker load`
+archive:
+
+- **Download:** `<PUT IMAGE DOWNLOAD LINK HERE>`
+- `pengwin-task2-v75-image.tar.xz` — 2.6 GB
+- **SHA256:** `8de65602f4c840a40c7caa3c01d6953d335250dfdf508b5047aeffdfcc330d21`
+
+```bash
+docker load -i pengwin-task2-v75-image.tar.xz     # -> pengwin-task2-v75:latest
+./run_case.sh <input_dir> <output_dir>
+```
+
+The image already contains the weights, so `fetch_weights.sh` and `build.sh` are
+not needed on this path. Its config digest is
+`sha256:2813fb3341856a6b50e38d09f03b49be0fe845525ce8abc81aef17cfacdc9815`, which
+is the image registered on Grand Challenge as our final submission.
+
 Four nnU-Net models, all `3d_fullres`, all `fold_all`:
 
 | dataset | trainer | role |
