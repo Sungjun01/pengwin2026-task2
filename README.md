@@ -248,4 +248,5 @@ torch 2.5.1+cu121, numpy 2.1.2), plus `nnunetv2==2.7.0`, `monai==1.5.0`,
 
 ## Contact
 
-schoaq — <sungjunc01@gmail.com>
+schoaq — <schoaq@connect.ust.hk>
+tjeong — <tjeong@connect.ust.hk>
