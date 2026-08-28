@@ -2,6 +2,7 @@
 models/
 *.tar.gz
 *.tar
+*.tar.xz
 
 # Build / runtime artifacts
 __pycache__/
