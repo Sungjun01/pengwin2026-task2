@@ -1,0 +1,6 @@
+.git
+docs
+*.tar.gz
+out
+output
+**/__pycache__

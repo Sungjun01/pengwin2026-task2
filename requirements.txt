@@ -1,0 +1,14 @@
+# Versions pinned to what is installed in the submitted image pengwin-task2-v75.
+# torch 2.5.1+cu121 / numpy 2.1.2 come from the base image and are left untouched.
+# Full reference: docs/pip-freeze-v75.txt
+nnunetv2==2.7.0
+acvl_utils==0.2.6
+batchgenerators==0.25.2
+batchgeneratorsv2==0.3.2
+dynamic_network_architectures==0.4.3
+connected-components-3d==3.28.0
+monai==1.5.0
+SimpleITK==2.5.5
+scipy==1.17.1
+scikit-image==0.26.0
+tqdm

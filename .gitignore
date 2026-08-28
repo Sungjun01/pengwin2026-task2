@@ -1,0 +1,11 @@
+# Model weights (≈940 MB) — distributed separately, see README.md
+models/
+*.tar.gz
+*.tar
+
+# Build / runtime artifacts
+__pycache__/
+*.pyc
+out/
+output/
+.DS_Store

@@ -1,0 +1,4762 @@
+{
+ "001": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 3,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "002": {
+  "voxvol_mm3": 0.5435,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "003": {
+  "voxvol_mm3": 0.5772,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "004": {
+  "voxvol_mm3": 0.7119,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "005": {
+  "voxvol_mm3": 0.8037,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "006": {
+  "voxvol_mm3": 0.6602,
+  "sacrum": 15,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 18,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "007": {
+  "voxvol_mm3": 0.6988,
+  "sacrum": 2,
+  "leftHip": 4,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "008": {
+  "voxvol_mm3": 0.4407,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "009": {
+  "voxvol_mm3": 0.5281,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "010": {
+  "voxvol_mm3": 0.715,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "011": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "012": {
+  "voxvol_mm3": 0.7725,
+  "sacrum": 1,
+  "leftHip": 6,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "013": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "014": {
+  "voxvol_mm3": 0.6226,
+  "sacrum": 4,
+  "leftHip": 1,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "015": {
+  "voxvol_mm3": 0.6665,
+  "sacrum": 5,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "016": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "017": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "018": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "019": {
+  "voxvol_mm3": 0.3831,
+  "sacrum": 4,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "020": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 4,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "021": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 1,
+  "leftHip": 9,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 19,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "022": {
+  "voxvol_mm3": 0.7185,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 3,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "023": {
+  "voxvol_mm3": 0.4834,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "024": {
+  "voxvol_mm3": 0.4873,
+  "sacrum": 3,
+  "leftHip": 10,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 19,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 9
+ },
+ "025": {
+  "voxvol_mm3": 0.6043,
+  "sacrum": 1,
+  "leftHip": 3,
+  "rightHip": 11,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "026": {
+  "voxvol_mm3": 0.6633,
+  "sacrum": 1,
+  "leftHip": 5,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "027": {
+  "voxvol_mm3": 0.5524,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "028": {
+  "voxvol_mm3": 0.6923,
+  "sacrum": 4,
+  "leftHip": 8,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 18,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 10
+ },
+ "029": {
+  "voxvol_mm3": 0.4907,
+  "sacrum": 3,
+  "leftHip": 1,
+  "rightHip": 8,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "030": {
+  "voxvol_mm3": 0.5952,
+  "sacrum": 1,
+  "leftHip": 9,
+  "rightHip": 7,
+  "femur": 0,
+  "total_frag": 17,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 8
+ },
+ "031": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 2,
+  "leftHip": 4,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "032": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 1,
+  "leftHip": 3,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "033": {
+  "voxvol_mm3": 0.5105,
+  "sacrum": 4,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "034": {
+  "voxvol_mm3": 0.578,
+  "sacrum": 1,
+  "leftHip": 5,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "035": {
+  "voxvol_mm3": 0.5223,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "036": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "037": {
+  "voxvol_mm3": 0.614,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "038": {
+  "voxvol_mm3": 0.4898,
+  "sacrum": 4,
+  "leftHip": 2,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "039": {
+  "voxvol_mm3": 1.1907,
+  "sacrum": 3,
+  "leftHip": 6,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "040": {
+  "voxvol_mm3": 0.4898,
+  "sacrum": 6,
+  "leftHip": 3,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "041": {
+  "voxvol_mm3": 0.4892,
+  "sacrum": 5,
+  "leftHip": 6,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "042": {
+  "voxvol_mm3": 0.5772,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "043": {
+  "voxvol_mm3": 0.7453,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "044": {
+  "voxvol_mm3": 0.4764,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "045": {
+  "voxvol_mm3": 0.7385,
+  "sacrum": 2,
+  "leftHip": 5,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "046": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 13,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "047": {
+  "voxvol_mm3": 0.6995,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "048": {
+  "voxvol_mm3": 0.6235,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "049": {
+  "voxvol_mm3": 0.4713,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "050": {
+  "voxvol_mm3": 0.3738,
+  "sacrum": 6,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "051": {
+  "voxvol_mm3": 0.589,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "052": {
+  "voxvol_mm3": 0.5992,
+  "sacrum": 3,
+  "leftHip": 3,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "053": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "054": {
+  "voxvol_mm3": 0.6955,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "055": {
+  "voxvol_mm3": 0.6858,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "056": {
+  "voxvol_mm3": 0.6043,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 8,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "057": {
+  "voxvol_mm3": 0.9423,
+  "sacrum": 3,
+  "leftHip": 5,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "058": {
+  "voxvol_mm3": 0.8862,
+  "sacrum": 6,
+  "leftHip": 9,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "059": {
+  "voxvol_mm3": 0.6098,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "060": {
+  "voxvol_mm3": 0.5889,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "061": {
+  "voxvol_mm3": 0.4923,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "062": {
+  "voxvol_mm3": 0.6134,
+  "sacrum": 5,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "063": {
+  "voxvol_mm3": 0.6507,
+  "sacrum": 15,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 17,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 9
+ },
+ "064": {
+  "voxvol_mm3": 0.4898,
+  "sacrum": 14,
+  "leftHip": 1,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 24,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 14
+ },
+ "065": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "066": {
+  "voxvol_mm3": 0.6134,
+  "sacrum": 5,
+  "leftHip": 8,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "067": {
+  "voxvol_mm3": 0.6538,
+  "sacrum": 6,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "068": {
+  "voxvol_mm3": 0.5268,
+  "sacrum": 6,
+  "leftHip": 1,
+  "rightHip": 7,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "069": {
+  "voxvol_mm3": 0.6538,
+  "sacrum": 3,
+  "leftHip": 3,
+  "rightHip": 8,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "070": {
+  "voxvol_mm3": 0.3506,
+  "sacrum": 4,
+  "leftHip": 3,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "071": {
+  "voxvol_mm3": 0.6915,
+  "sacrum": 3,
+  "leftHip": 3,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "072": {
+  "voxvol_mm3": 0.6729,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 4,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "073": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 12,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "074": {
+  "voxvol_mm3": 0.763,
+  "sacrum": 3,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "075": {
+  "voxvol_mm3": 0.7285,
+  "sacrum": 12,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 21,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 11
+ },
+ "076": {
+  "voxvol_mm3": 0.4898,
+  "sacrum": 2,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "077": {
+  "voxvol_mm3": 0.4194,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "078": {
+  "voxvol_mm3": 0.5685,
+  "sacrum": 1,
+  "leftHip": 9,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "079": {
+  "voxvol_mm3": 0.4807,
+  "sacrum": 1,
+  "leftHip": 6,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "080": {
+  "voxvol_mm3": 0.6012,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 4,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "081": {
+  "voxvol_mm3": 0.5082,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "082": {
+  "voxvol_mm3": 0.6602,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "083": {
+  "voxvol_mm3": 0.4477,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 8,
+  "femur": 0,
+  "total_frag": 13,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "084": {
+  "voxvol_mm3": 0.7218,
+  "sacrum": 15,
+  "leftHip": 10,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 30,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 19
+ },
+ "085": {
+  "voxvol_mm3": 0.6684,
+  "sacrum": 2,
+  "leftHip": 5,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "086": {
+  "voxvol_mm3": 0.4332,
+  "sacrum": 5,
+  "leftHip": 4,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "087": {
+  "voxvol_mm3": 0.5231,
+  "sacrum": 9,
+  "leftHip": 12,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 22,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 10
+ },
+ "088": {
+  "voxvol_mm3": 0.6346,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "089": {
+  "voxvol_mm3": 0.6012,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "090": {
+  "voxvol_mm3": 0.763,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "091": {
+  "voxvol_mm3": 0.4835,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "092": {
+  "voxvol_mm3": 0.7759,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "093": {
+  "voxvol_mm3": 0.5832,
+  "sacrum": 1,
+  "leftHip": 14,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "094": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 5,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "095": {
+  "voxvol_mm3": 0.462,
+  "sacrum": 1,
+  "leftHip": 6,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "096": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "097": {
+  "voxvol_mm3": 0.7725,
+  "sacrum": 7,
+  "leftHip": 3,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 13,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "098": {
+  "voxvol_mm3": 0.4898,
+  "sacrum": 8,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 13,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "099": {
+  "voxvol_mm3": 0.6073,
+  "sacrum": 3,
+  "leftHip": 3,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "100": {
+  "voxvol_mm3": 0.6007,
+  "sacrum": 7,
+  "leftHip": 5,
+  "rightHip": 7,
+  "femur": 0,
+  "total_frag": 19,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 11
+ },
+ "101": {
+  "voxvol_mm3": 0.752,
+  "sacrum": 2,
+  "leftHip": 6,
+  "rightHip": 13,
+  "femur": 0,
+  "total_frag": 21,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 9
+ },
+ "102": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "103": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 2,
+  "leftHip": 5,
+  "rightHip": 9,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "104": {
+  "voxvol_mm3": 0.5772,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 3,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "105": {
+  "voxvol_mm3": 0.5364,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "106": {
+  "voxvol_mm3": 0.5478,
+  "sacrum": 3,
+  "leftHip": 6,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "107": {
+  "voxvol_mm3": 0.7053,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "108": {
+  "voxvol_mm3": 0.6165,
+  "sacrum": 8,
+  "leftHip": 5,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 17,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "109": {
+  "voxvol_mm3": 0.5952,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "110": {
+  "voxvol_mm3": 0.4892,
+  "sacrum": 2,
+  "leftHip": 7,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "111": {
+  "voxvol_mm3": 0.438,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "112": {
+  "voxvol_mm3": 0.6648,
+  "sacrum": 2,
+  "leftHip": 8,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 13,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "113": {
+  "voxvol_mm3": 0.5832,
+  "sacrum": 1,
+  "leftHip": 16,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 18,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 8
+ },
+ "114": {
+  "voxvol_mm3": 0.9461,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 3,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "115": {
+  "voxvol_mm3": 0.7897,
+  "sacrum": 12,
+  "leftHip": 1,
+  "rightHip": 13,
+  "femur": 0,
+  "total_frag": 26,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 11
+ },
+ "116": {
+  "voxvol_mm3": 0.5669,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "117": {
+  "voxvol_mm3": 0.6858,
+  "sacrum": 3,
+  "leftHip": 2,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "118": {
+  "voxvol_mm3": 0.6858,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "119": {
+  "voxvol_mm3": 0.6423,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "120": {
+  "voxvol_mm3": 0.7297,
+  "sacrum": 8,
+  "leftHip": 3,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "151": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "152": {
+  "voxvol_mm3": 0.4762,
+  "sacrum": 3,
+  "leftHip": 5,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "153": {
+  "voxvol_mm3": 0.7621,
+  "sacrum": 1,
+  "leftHip": 8,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "154": {
+  "voxvol_mm3": 0.5327,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 12,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "155": {
+  "voxvol_mm3": 0.7621,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 4,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "156": {
+  "voxvol_mm3": 0.4892,
+  "sacrum": 3,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "157": {
+  "voxvol_mm3": 0.5945,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 20,
+  "femur": 0,
+  "total_frag": 22,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 11
+ },
+ "158": {
+  "voxvol_mm3": 0.5538,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "159": {
+  "voxvol_mm3": 0.5585,
+  "sacrum": 2,
+  "leftHip": 4,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "160": {
+  "voxvol_mm3": 0.6235,
+  "sacrum": 3,
+  "leftHip": 11,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "161": {
+  "voxvol_mm3": 0.5222,
+  "sacrum": 1,
+  "leftHip": 3,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "162": {
+  "voxvol_mm3": 0.3738,
+  "sacrum": 1,
+  "leftHip": 6,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "163": {
+  "voxvol_mm3": 0.438,
+  "sacrum": 5,
+  "leftHip": 2,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "164": {
+  "voxvol_mm3": 0.5882,
+  "sacrum": 7,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "165": {
+  "voxvol_mm3": 0.763,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "166": {
+  "voxvol_mm3": 0.5632,
+  "sacrum": 2,
+  "leftHip": 12,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 15,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "167": {
+  "voxvol_mm3": 0.6096,
+  "sacrum": 8,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 4
+ },
+ "168": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 1,
+  "leftHip": 2,
+  "rightHip": 7,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "169": {
+  "voxvol_mm3": 0.6538,
+  "sacrum": 3,
+  "leftHip": 5,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "170": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 1,
+  "leftHip": 16,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 18,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "171": {
+  "voxvol_mm3": 0.4738,
+  "sacrum": 8,
+  "leftHip": 1,
+  "rightHip": 4,
+  "femur": 0,
+  "total_frag": 13,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 7
+ },
+ "172": {
+  "voxvol_mm3": 0.6542,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "173": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 7,
+  "leftHip": 3,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 12,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "174": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "175": {
+  "voxvol_mm3": 0.6217,
+  "sacrum": 1,
+  "leftHip": 12,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 5
+ },
+ "176": {
+  "voxvol_mm3": 0.5733,
+  "sacrum": 4,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "177": {
+  "voxvol_mm3": 0.7611,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "178": {
+  "voxvol_mm3": 0.703,
+  "sacrum": 4,
+  "leftHip": 12,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 17,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "179": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 10,
+  "leftHip": 6,
+  "rightHip": 8,
+  "femur": 0,
+  "total_frag": 24,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 18
+ },
+ "180": {
+  "voxvol_mm3": 0.7521,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 23,
+  "femur": 0,
+  "total_frag": 25,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 8
+ },
+ "181": {
+  "voxvol_mm3": 0.6318,
+  "sacrum": 2,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 7,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "182": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 8,
+  "leftHip": 2,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "183": {
+  "voxvol_mm3": 0.5945,
+  "sacrum": 1,
+  "leftHip": 3,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "184": {
+  "voxvol_mm3": 0.4339,
+  "sacrum": 10,
+  "leftHip": 2,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 17,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 10
+ },
+ "185": {
+  "voxvol_mm3": 0.6105,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 9,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "186": {
+  "voxvol_mm3": 0.4892,
+  "sacrum": 1,
+  "leftHip": 1,
+  "rightHip": 16,
+  "femur": 0,
+  "total_frag": 18,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 11
+ },
+ "187": {
+  "voxvol_mm3": 0.6365,
+  "sacrum": 2,
+  "leftHip": 5,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 3
+ },
+ "188": {
+  "voxvol_mm3": 0.6414,
+  "sacrum": 2,
+  "leftHip": 4,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 8,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "189": {
+  "voxvol_mm3": 0.7621,
+  "sacrum": 1,
+  "leftHip": 3,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "190": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 3,
+  "leftHip": 1,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "191": {
+  "voxvol_mm3": 0.763,
+  "sacrum": 2,
+  "leftHip": 2,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "192": {
+  "voxvol_mm3": 0.4886,
+  "sacrum": 1,
+  "leftHip": 4,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 1
+ },
+ "193": {
+  "voxvol_mm3": 0.763,
+  "sacrum": 1,
+  "leftHip": 7,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 10,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 2
+ },
+ "194": {
+  "voxvol_mm3": 0.4494,
+  "sacrum": 1,
+  "leftHip": 12,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 14,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "195": {
+  "voxvol_mm3": 0.6414,
+  "sacrum": 1,
+  "leftHip": 14,
+  "rightHip": 1,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 10
+ },
+ "196": {
+  "voxvol_mm3": 0.3739,
+  "sacrum": 8,
+  "leftHip": 1,
+  "rightHip": 7,
+  "femur": 0,
+  "total_frag": 16,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 8
+ },
+ "197": {
+  "voxvol_mm3": 0.5952,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 2,
+  "femur": 0,
+  "total_frag": 5,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "198": {
+  "voxvol_mm3": 0.436,
+  "sacrum": 14,
+  "leftHip": 4,
+  "rightHip": 5,
+  "femur": 0,
+  "total_frag": 23,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 13
+ },
+ "199": {
+  "voxvol_mm3": 0.5222,
+  "sacrum": 2,
+  "leftHip": 1,
+  "rightHip": 3,
+  "femur": 0,
+  "total_frag": 6,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 0
+ },
+ "200": {
+  "voxvol_mm3": 0.6697,
+  "sacrum": 2,
+  "leftHip": 3,
+  "rightHip": 6,
+  "femur": 0,
+  "total_frag": 11,
+  "present_bones": [
+   "sacrum",
+   "leftHip",
+   "rightHip"
+  ],
+  "domain": "pelvic",
+  "n_sub1cm3_ids": 6
+ },
+ "251": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "252": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "253": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "254": {
+  "voxvol_mm3": 0.3662,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "255": {
+  "voxvol_mm3": 0.8072,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "256": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 9,
+  "total_frag": 9,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "257": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "258": {
+  "voxvol_mm3": 0.8643,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "259": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "260": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "261": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "262": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "263": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "264": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "265": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "266": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "267": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "268": {
+  "voxvol_mm3": 0.7385,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "269": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "270": {
+  "voxvol_mm3": 0.7486,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "271": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "272": {
+  "voxvol_mm3": 0.5479,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "273": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "274": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "275": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "276": {
+  "voxvol_mm3": 0.3898,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "277": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 4
+ },
+ "278": {
+  "voxvol_mm3": 0.8142,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 7,
+  "total_frag": 7,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 5
+ },
+ "279": {
+  "voxvol_mm3": 0.3713,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "280": {
+  "voxvol_mm3": 0.3761,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "281": {
+  "voxvol_mm3": 0.1614,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "282": {
+  "voxvol_mm3": 0.2876,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "283": {
+  "voxvol_mm3": 0.1924,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "284": {
+  "voxvol_mm3": 0.2948,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "285": {
+  "voxvol_mm3": 0.116,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "286": {
+  "voxvol_mm3": 0.241,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "287": {
+  "voxvol_mm3": 0.2747,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "288": {
+  "voxvol_mm3": 0.3502,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "289": {
+  "voxvol_mm3": 0.1832,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "290": {
+  "voxvol_mm3": 0.2559,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "291": {
+  "voxvol_mm3": 0.2747,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "292": {
+  "voxvol_mm3": 0.4689,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "293": {
+  "voxvol_mm3": 0.1308,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "294": {
+  "voxvol_mm3": 0.2159,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "295": {
+  "voxvol_mm3": 0.2747,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "296": {
+  "voxvol_mm3": 0.5722,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "297": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "298": {
+  "voxvol_mm3": 0.1832,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "299": {
+  "voxvol_mm3": 0.2747,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "300": {
+  "voxvol_mm3": 0.2765,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "301": {
+  "voxvol_mm3": 0.274,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "302": {
+  "voxvol_mm3": 0.441,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "303": {
+  "voxvol_mm3": 0.3662,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "304": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "305": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "306": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "307": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "308": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "309": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "310": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "311": {
+  "voxvol_mm3": 0.5479,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "312": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "313": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "314": {
+  "voxvol_mm3": 0.3898,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "315": {
+  "voxvol_mm3": 0.4464,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "316": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "317": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "318": {
+  "voxvol_mm3": 0.4892,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "319": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "320": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "321": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "322": {
+  "voxvol_mm3": 0.7385,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "323": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "324": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "325": {
+  "voxvol_mm3": 0.7285,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "326": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "327": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "328": {
+  "voxvol_mm3": 0.5435,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "329": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "330": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "331": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "332": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "333": {
+  "voxvol_mm3": 0.6475,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "334": {
+  "voxvol_mm3": 0.7554,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "335": {
+  "voxvol_mm3": 0.5295,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "336": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "337": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "338": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "339": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "340": {
+  "voxvol_mm3": 0.769,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "341": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "342": {
+  "voxvol_mm3": 0.8107,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "343": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "344": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "345": {
+  "voxvol_mm3": 0.5625,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "346": {
+  "voxvol_mm3": 0.2921,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "347": {
+  "voxvol_mm3": 0.7318,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "348": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "349": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "350": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "351": {
+  "voxvol_mm3": 0.7725,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 6,
+  "total_frag": 6,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 4
+ },
+ "352": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "353": {
+  "voxvol_mm3": 0.6826,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 6,
+  "total_frag": 6,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "354": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "355": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "356": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "357": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "358": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "359": {
+  "voxvol_mm3": 0.3662,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "360": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "361": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "362": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "363": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "364": {
+  "voxvol_mm3": 0.4883,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "365": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "366": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "367": {
+  "voxvol_mm3": 0.6729,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "368": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "369": {
+  "voxvol_mm3": 0.6633,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "370": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "371": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "372": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "373": {
+  "voxvol_mm3": 0.6602,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "374": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "375": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "376": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "377": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "378": {
+  "voxvol_mm3": 0.8072,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "379": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "380": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "381": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "382": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "383": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "384": {
+  "voxvol_mm3": 0.7486,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "385": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "386": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "387": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "388": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "389": {
+  "voxvol_mm3": 0.8142,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "390": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "391": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "392": {
+  "voxvol_mm3": 0.5726,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "393": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "394": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "395": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 7,
+  "total_frag": 7,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "396": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "397": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 6,
+  "total_frag": 6,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "398": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "399": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 10,
+  "total_frag": 10,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 4
+ },
+ "400": {
+  "voxvol_mm3": 0.7185,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "401": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 3,
+  "total_frag": 3,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "402": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "403": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "404": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "405": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "406": {
+  "voxvol_mm3": 0.4885,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 4,
+  "total_frag": 4,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ },
+ "407": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "408": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "409": {
+  "voxvol_mm3": 0.5508,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 6,
+  "total_frag": 6,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "410": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 7,
+  "total_frag": 7,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "411": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 11,
+  "total_frag": 11,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "412": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 6,
+  "total_frag": 6,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "413": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 4
+ },
+ "414": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 0
+ },
+ "415": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "416": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "417": {
+  "voxvol_mm3": 0.3433,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 7,
+  "total_frag": 7,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "418": {
+  "voxvol_mm3": 0.8571,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 8,
+  "total_frag": 8,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 3
+ },
+ "419": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 5,
+  "total_frag": 5,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 2
+ },
+ "420": {
+  "voxvol_mm3": 0.6104,
+  "sacrum": 0,
+  "leftHip": 0,
+  "rightHip": 0,
+  "femur": 2,
+  "total_frag": 2,
+  "present_bones": [
+   "femur"
+  ],
+  "domain": "femur",
+  "n_sub1cm3_ids": 1
+ }
+}

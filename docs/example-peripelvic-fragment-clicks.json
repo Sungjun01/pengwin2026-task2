@@ -1,0 +1,74 @@
+{
+  "name": "Boundary Internal Margin Points of Interest",
+  "type": "Multiple Points",
+  "points": [
+    {
+      "name": "Femur Boundary Internal Margin Point 1",
+      "point": [
+        158,
+        275,
+        126
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 2",
+      "point": [
+        131,
+        241,
+        98
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 3",
+      "point": [
+        159,
+        283,
+        133
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 4",
+      "point": [
+        173,
+        256,
+        138
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 5",
+      "point": [
+        128,
+        222,
+        112
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 6",
+      "point": [
+        170,
+        264,
+        131
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 7",
+      "point": [
+        131,
+        241,
+        113
+      ]
+    },
+    {
+      "name": "Femur Boundary Internal Margin Point 8",
+      "point": [
+        135,
+        252,
+        112
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0
+  }
+}
